@@ -1,0 +1,12 @@
+gradio==3.16.1
+json5==0.9.10
+matplotlib==3.6.2
+matplotlib-inline==0.1.6
+numpy==1.23.5
+onnx==1.13.0
+onnxruntime==1.13.1
+pandas==1.5.2
+Pillow==9.3.0
+torch==1.13.1+cu116
+torchvision==0.14.1+cu116
+tqdm==4.64.1
